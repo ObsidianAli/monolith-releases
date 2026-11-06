@@ -1,6 +1,6 @@
 {
-  "version": "0.1.5",
+  "version": "0.1.6",
   "electron": "45",
-  "sha256": "37515fad67b2b545d0042e2116fe54295da5a6779c3232184abe4c2064720023",
-  "signature": "jTJJRbesbWFQEdqfZF6DAVTeyMCCsr1VTyvByBIt9SUyh74/KJnw0qYmfgbGppvBNt5Uruffyqf+DV4WxEkbDQ=="
+  "sha256": "8b25e8a3e8f27d57f1b03e40dfcb41b25a64a602f951c989f8d53e6af4feb460",
+  "signature": "oaIc1fwqzx3S2KCkp2u22OORvOTOyTq73ZP07ypAnNgeVAC6ottStnsfwAmU0YdmMA3gjpv4l5NoXJpcTDo0AQ=="
 }
